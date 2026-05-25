@@ -1,0 +1,21 @@
+Muster GmbH
+Musterstraße 1
+12345 Musterstadt
+
+Rechnung Nr. 2024-001
+Datum: 15.05.2024
+
+Kunde:
+Beispiel AG
+Beispielweg 2
+54321 Beispielhausen
+
+Leistungen:
+1x Web Development - 1.000,00 €
+12x Hosting - 234,56 €
+
+Gesamtbetrag: 1.234,56 €
+
+Bitte überweisen Sie den Betrag innerhalb von 14 Tagen auf folgendes Konto:
+IBAN: DE12345678901234567890
+Bank: Musterbank
